@@ -1,0 +1,14 @@
+C:\Users\Fujitsu\AppData\Local\Temporary Projects\Text To Speak\obj\x86\Release\Text_To_Speak.Form1.resources
+C:\Users\Fujitsu\AppData\Local\Temporary Projects\Text To Speak\obj\x86\Release\Text_To_Speak.Properties.Resources.resources
+C:\Users\Fujitsu\AppData\Local\Temporary Projects\Text To Speak\obj\x86\Release\Text To Speak.csproj.GenerateResource.Cache
+C:\Users\Fujitsu\documents\visual studio 2010\Projects\Text To Speak\Text To Speak\bin\Release\Text To Speak.exe.manifest
+C:\Users\Fujitsu\documents\visual studio 2010\Projects\Text To Speak\Text To Speak\bin\Release\Text To Speak.application
+C:\Users\Fujitsu\documents\visual studio 2010\Projects\Text To Speak\Text To Speak\bin\Release\Text To Speak.exe
+C:\Users\Fujitsu\documents\visual studio 2010\Projects\Text To Speak\Text To Speak\bin\Release\Text To Speak.pdb
+C:\Users\Fujitsu\documents\visual studio 2010\Projects\Text To Speak\Text To Speak\obj\x86\Release\Text_To_Speak.Form1.resources
+C:\Users\Fujitsu\documents\visual studio 2010\Projects\Text To Speak\Text To Speak\obj\x86\Release\Text_To_Speak.Properties.Resources.resources
+C:\Users\Fujitsu\documents\visual studio 2010\Projects\Text To Speak\Text To Speak\obj\x86\Release\Text To Speak.csproj.GenerateResource.Cache
+C:\Users\Fujitsu\documents\visual studio 2010\Projects\Text To Speak\Text To Speak\obj\x86\Release\Text To Speak.exe.manifest
+C:\Users\Fujitsu\documents\visual studio 2010\Projects\Text To Speak\Text To Speak\obj\x86\Release\Text To Speak.application
+C:\Users\Fujitsu\documents\visual studio 2010\Projects\Text To Speak\Text To Speak\obj\x86\Release\Text To Speak.exe
+C:\Users\Fujitsu\documents\visual studio 2010\Projects\Text To Speak\Text To Speak\obj\x86\Release\Text To Speak.pdb
